@@ -28,8 +28,10 @@
 
 .headtitle h1 {
     color: hsl(344, 97.0%, 60.2%);
-
+    text-align: center;
+    font-size: 1.7em
 }
+
 
 /* auteur: Sanne 't Hooft */
 
@@ -554,7 +556,8 @@ input[type="range" i] {
 /*---------------------SECTION - ARTICLE-------------------*/
 
 #zoeken {
-    padding-top: 0.7em;
+    padding-top: 0;
+    margin-top: -1.3em;
 }
 
 section,
